@@ -1,8 +1,23 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=34&pause=1000&color=F71D37&background=51FF3900&width=435&lines=Make+Seoil+Great+Again" alt="Typing SVG" /></a></h1>
-<h3 align="center">AI 기반 학습 경험과 제품을 설계하고 만드는 개발자입니다.</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=34&pause=1000&color=F71D37&background=51FF3900&center=true&vCenter=true&width=700&lines=Make+Seoil+Great+Again;Build+Useful+AI+Products;Design+Structured+Learning+Systems"
+      alt="Typing SVG"
+    />
+  </a>
+</h1>
+
+<h3 align="center">AI 기반 학습 경험과 제품을 설계하고 만드는 개발자, 강정모입니다.</h3>
 
 <p align="center">
-  구조적인 설계, 명확한 타입, 그리고 실제로 작동하는 학습 시스템을 만듭니다.
+  사용자 문제를 구조화하고, <b>AI · Backend · Product Thinking</b>으로<br/>
+  실제로 동작하는 시스템을 만드는 것을 좋아합니다.
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -10,90 +25,117 @@
 ## About Me
 
 - 개인화 학습 로드맵, 과제 생성, 진척 관리 같은 **AI 기반 러닝 시스템**을 설계합니다.
-- 단순한 기능 구현보다 **사용자 경험, 정보 구조, 확장 가능한 아키텍처**를 중요하게 생각합니다.
-- 복잡한 흐름도와 지식 구조를 **시각적으로 표현하는 인터페이스**를 만드는 걸 좋아합니다.
-- 아이디어를 빠르게 MVP로 만들고, 이후 운영 가능한 제품 구조로 발전시키는 데 강점이 있습니다.
+- 단순히 기능을 붙이는 것보다 **정보 구조, 사용자 흐름, 유지보수 가능한 아키텍처**를 더 중요하게 생각합니다.
+- 복잡한 학습 흐름과 지식 구조를 **시각적으로 이해되는 인터페이스**로 바꾸는 작업을 좋아합니다.
+- 빠르게 MVP를 만들고, 이후 실제 운영 가능한 형태로 구조화하는 데 강점이 있습니다.
+- 프론트엔드부터 백엔드, 데이터 구조, AI 활용 흐름까지 이어지는 **제품 중심 개발**을 지향합니다.
 
 ---
 
 ## Tech Stack
 
-### Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
-### Visualization & Architecture
-![React Flow](https://img.shields.io/badge/React_Flow-1A1A1A?style=for-the-badge)
-![Dagre](https://img.shields.io/badge/Dagre-FF6B6B?style=for-the-badge)
-![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### Working Style
-- Modular Architecture
-- Strict Typing
-- Deterministic Transformations
-- Product-oriented Development
-- Learning Experience Design
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-BF1E2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge" />
+</p>
+
+### AI / Data / Automation
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analysis-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text_Mining-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-4CAF50?style=for-the-badge" />
+</p>
+
+### Visualization / Product Design
+<p>
+  <img src="https://img.shields.io/badge/React_Flow-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dagre-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+</p>
+
+### Database / Infra / Tools
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/H2-0F4C81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## Featured Project
+## What I Build
 
-### Learning Roadmap AI
-AI를 활용해 학습자 수준을 진단하고, 목표에 맞는 로드맵과 과제를 생성하며,
-시각적 학습 맵과 진척 관리를 제공하는 프로젝트입니다.
+- **AI 기반 학습 로드맵 시스템**
+  - 학습자 수준 진단
+  - 목표 기반 커리큘럼 설계
+  - 주차별 과제 및 리소스 추천
+  - 진척 추적과 학습 흐름 구조화
 
-**What it does**
-- 개인 맞춤형 학습 로드맵 생성
-- 커리큘럼 및 주차별 과제 설계
-- 리소스 추천 및 학습 우선순위 제안
-- semantic mindmap / graph 시각화
-- 진척 추적과 학습 흐름 구조화
+- **시각화 중심 인터페이스**
+  - semantic graph / mindmap 기반 학습 맵
+  - 복잡한 지식 구조를 직관적으로 표현하는 UI 설계
+  - 사용자에게 “무엇을 왜 배우는지” 보여주는 구조 설계
 
-**Why I built it**
-- 누구나 “무엇을, 어떤 순서로, 얼마나 깊게 배워야 하는지”를 명확히 알기 어렵다고 느꼈습니다.
-- 그래서 학습자의 현재 수준과 목표를 기반으로, 실제 실행 가능한 학습 경로를 제안하는 시스템을 만들고 있습니다.
-
----
-
-## Project Structure
-
-```bash
-apps/
-  web/               # Next.js + React + TypeScript
-packages/
-  shared/            # zod schemas, shared types, domain logic, prompt templates
-data/
-  samples/           # sample inputs / seed data
-generated/           # generated outputs
-```
+- **운영 가능한 제품 아키텍처**
+  - 명확한 타입 설계와 공유 스키마
+  - 모듈형 구조와 확장 가능한 도메인 분리
+  - MVP 이후 확장을 고려한 백엔드 / 데이터 구조 설계
 
 ---
 
-## What I Care About
+## Strengths
 
 - 좋은 UI보다 먼저, **좋은 정보 구조**
-- 화려한 기능보다 먼저, **명확한 사용 흐름**
+- 화려한 기능보다 먼저, **명확한 사용자 흐름**
 - 빠른 구현보다 먼저, **유지보수 가능한 설계**
 - 멋진 데모보다 먼저, **실제로 도움이 되는 제품**
+- 단순 자동화보다 먼저, **문제를 해결하는 AI 활용 방식**
 
 ---
 
-## Currently Building
+## Currently Focused On
 
-- AI 기반 개인화 학습 로드맵 시스템
-- 과제/피드백/리소스 추천 자동화
-- 지식 구조 시각화 인터페이스
-- 포트폴리오 분석 및 학습 추천 기능 확장
-
----
-
-## Contact
-
-- Portfolio: [포트폴리오 링크 입력](#)
-- Blog: [블로그 링크 입력](#)
-- Email: [이메일 입력](mailto:your-email@example.com)
+- AI 기반 개인화 학습 경험 설계
+- 학습 추천 / 과제 생성 / 피드백 자동화
+- 로드맵 시각화 인터페이스 고도화
+- 백엔드 구조 안정화 및 데이터 흐름 설계
+- 포트폴리오 분석 기반 학습 추천 기능 확장
 
 ---
 
