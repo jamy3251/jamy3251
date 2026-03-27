@@ -7,10 +7,10 @@
   </a>
 </h1>
 
-<h3 align="center">AI 기반 학습 경험과 제품을 설계하고 만드는 개발자, 강정모입니다.</h3>
+<h3 align="center">강정모입니다.</h3>
 
 <p align="center">
-  사용자 문제를 구조화하고, <b>AI · Backend · Product Thinking</b>으로<br/>
+  Pain Point를 구조화하고, <b>AI · Backend · Product Thinking</b>으로<br/>
   실제로 동작하는 시스템을 만드는 것을 좋아합니다.
 </p>
 
