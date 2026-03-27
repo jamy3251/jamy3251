@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=34&pause=1000&color=F71D37&background=51FF3900&width=435&lines=Make+Seoil+Great+Again" alt="Typing SVG" /></a></h1>
 <h3 align="center">AI 기반 학습 경험과 제품을 설계하고 만드는 개발자입니다.</h3>
 
 <p align="center">
